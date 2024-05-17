@@ -26,6 +26,9 @@ The Honeypot Lab project aimed to establish a controlled environment within Azur
 Registering basic firewall service: <br/>
 <img src="https://i.imgur.com/2k3dFcD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+
+
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
