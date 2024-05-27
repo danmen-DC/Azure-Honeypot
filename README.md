@@ -29,10 +29,4 @@ Registering basic firewall service: <br/>
 
 
 
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+DNAT port for azure goes up to 63999. Tpot needs port 64295/64297 open
